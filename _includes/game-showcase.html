@@ -1,0 +1,11 @@
+<div>
+  <h2>Game Summary</h2>
+  <ul>
+    <li>Publisher: {{ include.publisher }}</li>
+    <li>Engine: {{ include.engine }}</li>
+    <li>Genre: {{ include.genre }}</li>
+    <li>Platforms: {{ include.platforms }}</li>
+    <li><a href="{{include.website}}" target="_blank">Visit website</a></li>
+  </ul>
+  {% include embed/youtube.html id=include.trailer %}
+</div>
