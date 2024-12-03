@@ -14,7 +14,7 @@ It was a very interesting project to work on, especially since it was a launch t
 We worked on the 'Connected' part of the game, which was the new multiplayer functionality that wasn't in the original version.
 
 After a successful release of the Xbox version, I worked on the cross-play functionality between all the platforms. This also included the PlayStation consoles, Nintendo Switch, Meta (Oculus) Quest, and Windows. 
-The third-party software we used for networking was very new and had very limited support on the newer consoles and with Unreal, which made for an interesting challenge.
+Epic's software we used for networking was very new and had very limited support on the newer consoles and with Unreal, which made for an interesting challenge.
 
 {% include game-showcase.html 
   name='Tetris Effect: Connected' 
